@@ -11,7 +11,7 @@ public class Variable01 {
 	  3) Data Types;
 	     a) "int" ==> integer: Whole numbers like 2, 132, -54, 0
 	     b) "double" ==> decimals: Range is larger
-	     c) "float"  ==> decimals: Range is smaller than double's range
+	     c) "float"  ==> decimals: Range is smaller than double's range	     
 	*/
 	
 	/*
@@ -42,9 +42,9 @@ public class Variable01 {
 	          h)boolean ==> false
 	            Note:boolean data type is used just for "true" and "false" values
 	    Note: Order the number data types in ascending order
-	          byte < short < int < long < float < double
+	          byte < short < int < long < float < double     
 	 */
-	static int price2;
+	static int price2;   
 	static double minSalary;
 	static float hourlySalary;
 	static char single;
